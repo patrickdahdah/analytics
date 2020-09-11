@@ -1,0 +1,11 @@
+{
+    "appName":"analytics-dashboard",
+    "baseUrl":"https://api.algoexplorer.io/v1",
+    "database":{
+        "user":"user",
+        "password":"password",
+        "host": "localhost",
+        "port": 0000,
+        "databaseName":"databaseName"
+    }
+}
